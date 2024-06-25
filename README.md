@@ -26,3 +26,16 @@
 总体上来讲一般，但是更多的是起到了对数据科学所需的数学只是的总览的作用，如果想要非常坚实的打下基础，那么需要的是找对应章节的知识点的教材来进行更加的系统性的学习。
 
 标价118，入手肯定是有问题的，拼多多上面买了将近80，不划算，入手在60的话还可以，不然还是算了。
+
+# 补充内容
+
+有一些讲了但是不是非常清楚的知识点，这里给出拓展的列表：
+
+| 名称     | 内容   | 链接                                                         |
+| -------- | ------ | ------------------------------------------------------------ |
+| 贝叶斯   | 概率   | https://www.bilibili.com/video/BV1R7411a76r/?spm_id_from=333.337.search-card.all.click |
+| $R^2$    | 统计   | https://www.bilibili.com/video/BV1bM41167z8/?spm_id_from=333.337.search-card.all.click&vd_source=70cc82c6f851aaa826e5c863112d2113 |
+| 链式法则 | 微积分 | https://www.bilibili.com/video/BV1Sx411m7Zz/?spm_id_from=333.337.search-card.all.click |
+| 梯度下降 | 回归   | https://www.bilibili.com/video/BV18P4y1j7uH/?spm_id_from=333.337.search-card.all.click |
+| 梯度下降 | 回归   | https://www.bilibili.com/video/BV1Ux411j7ri/?spm_id_from=333.337.search-card.all.click&vd_source=70cc82c6f851aaa826e5c863112d2113 |
+
