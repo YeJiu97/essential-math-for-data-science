@@ -12,7 +12,8 @@
 | 第三章 | [描述统计和推理统计学](https://github.com/YeJiu97/essential-math-for-data-science/tree/main/src/chapter03) | 是       | [$R^2$](https://www.bilibili.com/video/BV1bM41167z8/?spm_id_from=333.337.search-card.all.click&vd_source=70cc82c6f851aaa826e5c863112d2113) |
 | 第四章 | [线性代数](https://github.com/YeJiu97/essential-math-for-data-science/tree/main/src/chapter04) | 是       | [线性代数](https://www.bilibili.com/video/BV1ib411t7YR/?spm_id_from=333.337.search-card.all.click) |
 | 第五章 | [线性回归](https://github.com/YeJiu97/essential-math-for-data-science/tree/main/src/chapter05) | 是       | [梯度下降](https://www.bilibili.com/video/BV18P4y1j7uH/?spm_id_from=333.337.search-card.all.click) |
-| 第六行 | [逻辑斯蒂回归与分类](https://github.com/YeJiu97/essential-math-for-data-science/tree/main/src/chapter06) | 是       | [混淆矩阵](https://www.bilibili.com/video/BV1oz4y1R71a/?spm_id_from=333.337.search-card.all.click)，[ROC-AUC](https://www.bilibili.com/video/BV1wz4y197LU/?spm_id_from=333.337.search-card.all.click)，[曲线关系](https://www.bilibili.com/video/BV1pg4y1i7CN/?vd_source=70cc82c6f851aaa826e5c863112d2113)，[曲线场景](https://www.bilibili.com/video/BV1sQ4y1P7ax/?vd_source=70cc82c6f851aaa826e5c863112d2113) |
+| 第六章 | [逻辑斯蒂回归与分类](https://github.com/YeJiu97/essential-math-for-data-science/tree/main/src/chapter06) | 是       | [混淆矩阵](https://www.bilibili.com/video/BV1oz4y1R71a/?spm_id_from=333.337.search-card.all.click)，[ROC-AUC](https://www.bilibili.com/video/BV1wz4y197LU/?spm_id_from=333.337.search-card.all.click)，[曲线关系](https://www.bilibili.com/video/BV1pg4y1i7CN/?vd_source=70cc82c6f851aaa826e5c863112d2113)，[曲线场景](https://www.bilibili.com/video/BV1sQ4y1P7ax/?vd_source=70cc82c6f851aaa826e5c863112d2113) |
+| 第七章 | [神经网络](https://github.com/YeJiu97/essential-math-for-data-science/tree/main/src/chapter07) | 是       | 建议观看：3B1B的 [神经网络系列视频](https://space.bilibili.com/88461692/channel/seriesdetail?sid=1528929)，鱼书更好一些 |
 
 # 书籍评价
 
